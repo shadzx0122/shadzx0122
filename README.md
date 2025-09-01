@@ -38,8 +38,8 @@
 
 ### 📄 My Resume
 <p align="center">
-   <a href="https://github.com/shadzx0122/shadzx0122/raw/main/resume.pdf" download>
-    <img src="https://img.shields.io/badge/Download%20Resume-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Resume"/>
+   <a href="https://github.com/shadzx0122/shadzx0122/raw/main/Shadakshari.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20Resume-0A66C2?style=for-the-badge&logoColor=white" alt="Resume"/>
   </a>
   </a>
 </p>
