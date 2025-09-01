@@ -29,12 +29,14 @@
 # 🌐 Socials:
  <!--**Email:** shadzx0122@gmail.com  
  **LinkedIn:** https://linkedin.com/in/shadakshari0122 -->
- 
+ <p style="background-color: rgba(232, 225, 225, 0.501); padding:8px;width: 250px;">Email : shadakshari0122@gmail.com</p>
   <a href="https://www.linkedin.com/in/shadakshari0122//">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" /></a>
-<a href="mailto:shadakshari0122@gmail.com">
+<!--<a href="mailto:shadakshari0122@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
-  </a>
+  </a> 
+  -->
+  
 
 ### 📄 My Resume
 <p align="center">
